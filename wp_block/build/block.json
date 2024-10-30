@@ -1,0 +1,61 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "create-block/moredealAiWriterGutenbergBlock",
+  "version": "0.1.0",
+  "title": "MoredealAiWriterGutenbergBlock",
+  "category": "text",
+  "icon": "flag",
+  "description": "A Gutenberg block to show your pride! This block enables you to type text and style it with the color font Gilbert from Type with Pride.",
+  "attributes": {
+    "message": {
+      "type": "string",
+      "source": "text",
+      "selector": "div",
+      "default": ""
+    },
+    "url": {
+      "type": "string",
+      "source": "attribute",
+      "selector": "img",
+      "attribute": "src",
+      "default": "https://placekitten.com/150/150"
+    },
+    "title": {
+      "type": "string",
+      "default": "Default Title"
+    },
+    "size": {
+      "type": "string",
+      "enum": [
+        "large",
+        "small"
+      ],
+      "default": "large"
+    },
+    "bg_color": {
+      "type": "string",
+      "default": "#000000"
+    },
+    "text_color": {
+      "type": "string",
+      "default": "#ffffff"
+    },
+    "content": {
+      "type": "string",
+      "source": "html",
+      "selector": "p"
+    },
+    "alignment": {
+      "type": "string",
+      "default": "none"
+    }
+  },
+  "supports": {
+    "html": false
+  },
+  "textdomain": "moredeal-ai-writer",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

@@ -1,0 +1,1024 @@
+# Copyright (C) 2019-2020 Moredeal AI Writer <
+
+# wp-content/plugins/moredeal-aigc/application/admin/AdminPlugin.php:46
+msgid "You are not authorized to perform the requested action."
+msgstr "您没有权限执行请求的操作。"
+
+# wp-content/plugins/moredeal-aigc/application/admin/AdminPlugin.php:156
+msgid "MoredealAigc"
+msgstr "MoredealAigc"
+
+# wp-content/plugins/moredeal-aigc/application/admin/AigcMetaBox.php:50
+# wp-content/plugins/moredeal-aigc/application/admin/DebugConfig.php:50
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:55
+msgid "Moredeal AI Writer"
+msgstr "Moredeal AI Writer"
+
+# wp-content/plugins/moredeal-aigc/application/admin/views/debug_index.php:13
+msgid "Moredeal AI Writer Debugger"
+msgstr "Moredeal AI Writer 调试"
+
+# wp-content/plugins/moredeal-aigc/application/admin/DebugConfig.php:50
+# wp-content/plugins/moredeal-aigc/application/admin/DebugConfig.php:79
+# wp-content/plugins/moredeal-aigc/application/admin/DebugConfig.php:91
+msgid "Debugger"
+msgstr "调试"
+
+# wp-content/plugins/moredeal-aigc/application/admin/DebugConfig.php:75
+msgid "Enable Debugger"
+msgstr "启用调试器"
+
+# wp-content/plugins/moredeal-aigc/application/admin/DebugConfig.php:82
+msgid "Debugger Mode"
+msgstr "调试模式"
+
+# wp-content/plugins/moredeal-aigc/application/admin/DebugConfig.php:83
+msgid "Debugger mode, you can select Free, Pro, Plus"
+msgstr "调试模式，您可以选择免费版、专业版、旗舰版"
+
+# wp-content/plugins/moredeal-aigc/application/admin/DebugConfig.php:87
+msgid "Free"
+msgstr "免费版(Free)"
+
+# wp-content/plugins/moredeal-aigc/application/admin/DebugConfig.php:89
+msgid "Plus"
+msgstr "高级版(Plus)"
+
+# wp-content/plugins/moredeal-aigc/application/admin/DebugConfig.php:88
+msgid "Pro"
+msgstr "专业版(Pro)"
+
+# wp-content/plugins/moredeal-aigc/application/admin/views/license_index.php:15
+# wp-content/plugins/moredeal-aigc/application/admin/views/debug_index.php:15
+msgid "free"
+msgstr "免费版(Free)"
+
+# wp-content/plugins/moredeal-aigc/application/admin/views/license_index.php:15
+# wp-content/plugins/moredeal-aigc/application/admin/views/debug_index.php:15
+msgid "plus"
+msgstr "高级版(Plus)"
+
+# wp-content/plugins/moredeal-aigc/application/admin/views/license_index.php:15
+# wp-content/plugins/moredeal-aigc/application/admin/views/debug_index.php:15
+msgid "pro"
+msgstr "专业版(Pro)"
+
+# wp-content/plugins/moredeal-aigc/application/admin/views/debug_index.php:18
+# wp-content/plugins/moredeal-aigc/application/admin/views/license_index.php:18
+msgid "Go Pro"
+msgstr "升级为专业版"
+
+# wp-content/plugins/moredeal-aigc/application/admin/views/license_index.php:13
+msgid "Moredeal AI Writer License"
+msgstr "Moredeal AI Writer 授权"
+
+# wp-content/plugins/moredeal-aigc/application/admin/views/license_index.php:27
+msgid "Activate License"
+msgstr "激活授权"
+
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:55
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:102
+msgid "License"
+msgstr "授权"
+
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:83
+msgid "License Key"
+msgstr "授权码"
+
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:84
+msgid "Please enter your license key, Please check %s to purchase the license key you want."
+msgstr "请输入您的授权码，请查看%s购买您想要的授权码。"
+
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:84
+msgid "Documentation"
+msgstr "文档"
+
+msgid "Contact Us"
+msgstr "联系我们"
+
+msgid "The Price List"
+msgstr "价格列表"
+
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:92
+msgid "The License key can not be empty."
+msgstr "授权码不能为空。"
+
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:96
+msgid "Invalid License Key, Please check your License Key."
+msgstr "无效的授权码，请检查您的授权码。"
+
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:118
+msgid "Active fail, place contact your administrator"
+msgstr "激活失败，请联系您的管理员"
+
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:136
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:142
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:156
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:176
+msgid "Unbind license fail, place contact your administrator"
+msgstr "解绑授权失败，请联系您的管理员"
+
+msgid "Get license info fail, place contact your administrator"
+msgstr "获取授权信息失败，请联系您的管理员"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:212
+msgid "Cant get download url?, please contact us get the url download the latest version overrides the current free version of the plugin."
+msgstr "无法获取下载地址？请联系我们获取下载地址下载最新版本覆盖当前免费版插件。"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:215
+msgid "You can download the latest version overrides the current free version of the plugin to use Advanced version"
+msgstr "您可以下载最新版本覆盖当前免费版插件使用高级版"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:183
+msgid "Cant get License Info, This License has an unknown error occurred, contact your administrator to solve the problem. "
+msgstr "无法获取授权信息，此授权出现未知错误，请联系您的管理员解决问题。"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:213
+msgid "License status: "
+msgstr "授权状态："
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:214
+msgid "NOACTIVE"
+msgstr "未激活"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:214
+msgid "ACTIVE"
+msgstr "已激活"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:214
+msgid "INACTIVE"
+msgstr "已过期"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:214
+msgid "DISABLE"
+msgstr "已禁用"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:214
+msgid "UNKNOWN"
+msgstr "未知"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:219
+msgid "The License has no active, place contact your administrator"
+msgstr "授权码没有激活，请联系您的管理员"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:222
+msgid "You can use the advanced features of Moredeal AI Writer"
+msgstr "您可以使用 Moredeal AI Writer 的高级功能"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:225
+msgid "The License has expired, please Renew your current license code or obtain a new license key"
+msgstr "授权码已过期，请续费您的当前授权码或获取新的授权码"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:228
+msgid "The License has disabled, place contact your administrator"
+msgstr "授权码已禁用，请联系您的管理员"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:231
+msgid "Cant get the License status, place contact your administrator"
+msgstr "无法获取授权状态，请联系您的管理员"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:235
+msgid "License Level is %s"
+msgstr "授权等级为 %s"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:234
+msgid "Active at %s "
+msgstr "激活于 %s "
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:235
+msgid "Expires at %s (%d days left)"
+msgstr "过期于 %s （剩余 %d 天）"
+
+msgid "You have usable tokens: %s, "
+msgstr "您有可用的 Token：%s，"
+
+msgid "Days left: %d ."
+msgstr "剩余天数：%d 。"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:239
+msgid "This License code can be bind to %s websites. "
+msgstr "此授权码可以绑定 %s 个网站。"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:244
+msgid "Already bind websites: %s. "
+msgstr "已绑定网站：%s。"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:245
+msgid "You can bind %s websites. "
+msgstr "您可以绑定 %s 个网站。"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:248
+msgid "You can not bind website, if you want bind other website, you can unbind already bind websites or upgrade your license. "
+msgstr "您无法绑定网站，如果您想绑定其他网站，您可以解绑已绑定的网站或升级您的授权码。"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:255
+msgid "bind_domain"
+msgstr "已绑定网站"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:255
+msgid "queries"
+msgstr "查询次数"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:255
+msgid "options"
+msgstr "操作"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:305
+msgid "Current Website"
+msgstr "当前网站"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:334
+msgid "Unbind"
+msgstr "解绑"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:361
+msgid "Unlimited"
+msgstr "不限"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:371
+msgid " times / "
+msgstr " 次 / "
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:381
+msgid "Day"
+msgstr "天"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:383
+msgid "Week"
+msgstr "周"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:385
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:390
+msgid "Month"
+msgstr "月"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:387
+msgid "Year"
+msgstr "年"
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Token Recharge"
+msgstr "Token 充值"
+
+msgid "Token Recharge Key"
+msgstr "Token 充值卷"
+
+msgid "Please enter your Token Recharge Key, Please check %s to purchase the token recharge key you want."
+msgstr "请输入您的 Token 充值卷，请查看%s购买您想要的 token 充值卷。"
+
+msgid "The Token Recharge Key can not be empty."
+msgstr "Token 充值卷 不能为空。"
+
+msgid "Invalid Token Recharge Key, Please check your License Key."
+msgstr "无效的 Token充值券，请检查您的授权码。"
+
+msgid "Cant get token info, This token has an unknown error occurred, contact your administrator to solve the problem. "
+msgstr "无法获取 Token 信息，此 Token 发生了未知错误，请联系您的管理员解决问题。"
+
+msgid "Other errors occurred, contact your administrator to solve the problem. "
+msgstr "发生其他错误，请联系您的管理员解决问题。"
+
+msgid "If you want to buy tokens, your recharge key will be recharged to this license key. "
+msgstr "如果您想购买 Token，您的充值卷将充值到此授权码。"
+
+msgid "If you want to buy tokens, your recharge key will be recharged to this account id, if you upgrade your plugin again, the token will not be transferred. It is recommended to upgrade to a higher version of the plugin before topping up your tokens to get a better experience."
+msgstr "如果您想购买 Token，您的充值卷将充值到此 Account ID，如果您再次升级插件，Token 将不会被转移。建议在充值 Token 之前升级到更高版本的插件，以获得更好的体验。"
+
+msgid "Total Token: "
+msgstr "总数 Token："
+
+msgid "Used Token: "
+msgstr "已使用 Token："
+
+msgid "Usable Token: "
+msgstr "可用 Token："
+
+msgid "Days left: "
+msgstr "剩余天数："
+
+msgid "This account id is a unique key representation of the Moredeal AI Writer plugin we generate for you."
+msgstr "此 ID 是我们为您生成的 Moredeal AI Writer 插件的唯一标识。"
+
+msgid "Not Found Your Account ? Please click the Generate button to generate your Account."
+msgstr "找不到您的 ID ？请点击生成按钮生成您的 ID。"
+
+msgid "Generate"
+msgstr "生成"
+
+msgid "This account id is the only key representation of the Moredeal AI Writer plugin to you. "
+msgstr "此 ID 是您的 Moredeal AI Writer 插件的唯一标识。"
+
+msgid "Get moredeal aigc account fail, place contact your administrator"
+msgstr "获取 moredeal aigc account id 失败，请联系您的管理员"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Moredeal Ai Writer Page Permissions"
+msgstr "Moredeal Ai Writer 页面权限"
+
+msgid "Select the user roles that can access the Moredeal Ai Writer page."
+msgstr "选择可以访问 Moredeal Ai Writer 页面的用户角色。"
+
+msgid "General Settings"
+msgstr "常规设置"
+
+msgid "Use Limit"
+msgstr "限流设置"
+
+msgid "Service"
+msgstr "服务设置"
+
+msgid "Moredeal Ai Writer User Template Permissions"
+msgstr "Moredeal Ai Writer 用户模板权限"
+
+msgid "You can view only the templates that you have created(administrator can view all templates)."
+msgstr "您只能查看您创建的模板（管理员可以查看所有模板）。"
+
+msgid "Enable Gutenberg Block Editor"
+msgstr "启用 Gutenberg 区块编辑器"
+
+msgid "Enable Gutenberg Block Editor. You can use our provided block editing tools to simplify writing articles."
+msgstr "启用 Gutenberg 区块编辑器。您可以使用我们提供的区块编辑工具来简化文章写作。"
+
+msgid "Leave A Review ?"
+msgstr "留下评论？"
+
+msgid "We hope you've enjoyed using Moredeal AI Writer! Would you consider leaving us a review on WordPress.org ?"
+msgstr "我们希望您喜欢使用 Moredeal AI Writer！您是否考虑在 WordPress.org 上给我们留下评论？"
+
+msgid "Sure, I'd Love To"
+msgstr "当然，我很愿意"
+
+msgid "I've Already Left A Review"
+msgstr "我已经留下评论了"
+
+msgid "Maybe Later"
+msgstr "以后再说"
+
+msgid "Never Show Again"
+msgstr "不再显示"
+
+msgid "Please download and install the premium version plug-in as soon as possible, otherwise you will not be able to use and experience the features of the premium version, and the token of this authorization code will not be available."
+msgstr "请尽快下载安装付费版插件，否则您将无法使用和体验付费版的功能，此授权码的 Tokens 也将无法使用。"
+
+msgid "Post Meta Box Titles"
+msgstr "元框-文章标题生成"
+
+msgid "In the Wordpress Post Editor Meta Box, regenerate the article title scene based on the article content summary."
+msgstr "在 Wordpress 文章编辑器元框中，根据文章内容重新生成文章标题场景。"
+
+msgid "Post Meta Box Excerpts"
+msgstr "元框-文章摘要生成"
+
+msgid "In the Wordpress Post Editor Meta Box, regenerate the article excerpt scene based on the article content summary."
+msgstr "在 Wordpress 文章编辑器元框中，根据文章内容重新生成文章摘要场景。"
+
+msgid "Post Block Right Translate Text"
+msgstr "右键-翻译文本"
+
+msgid "In the Wordpress Post Block Editor Toolbar, right click Translate Text Scene."
+msgstr "在 Wordpress 文章编辑器右键中，右键翻译文本场景。"
+
+msgid "Post Block Right Improve Writing"
+msgstr "右键-提升写作"
+
+msgid "In the Wordpress Post Block Editor Toolbar, right click Improve Writing Scene."
+msgstr "在 Wordpress 文章编辑器右键中，右键提升写作场景。"
+
+msgid "Post Block Right Make Longer"
+msgstr "右键-延长文章"
+
+msgid "In the Wordpress Post Block Editor Toolbar, right click Make Longer Scene."
+msgstr "在 Wordpress 文章编辑器右键中，右键延长文章场景。"
+
+msgid "Post Block Right Summarize Text"
+msgstr "右键-总结文本"
+
+msgid "In the Wordpress Post Block Editor Toolbar, right click Summarize Text Scene."
+msgstr "在 Wordpress 文章编辑器右键中，右键总结文本场景。"
+
+msgid "Post Block Right Continue Writing"
+msgstr "右键-续写文本"
+
+msgid "In the Wordpress Post Block Editor Toolbar, right click Continue Writing Scene."
+msgstr "在 Wordpress 文章编辑器右键中，右键续写文本场景。"
+
+msgid "Post Block Right Summarize Table"
+msgstr "右键-总结表格"
+
+msgid "In the Wordpress Post Block Editor Toolbar, right click Summarize Table Scene."
+msgstr "在 Wordpress 文章编辑器右键中，右键总结表格成为一段文本场景。"
+
+msgid "Post Block Right Generate Table"
+msgstr "右键-生成表格"
+
+msgid "In the Wordpress Post Block Editor Toolbar, right click Generate Table Scene."
+msgstr "在 Wordpress 文章编辑器右键中，右键生成表格场景。"
+
+msgid "Admin Dashboard"
+msgstr "管理仪表盘"
+
+msgid "Supported by default, you can view, modify, execute, delete the template in Wordpress Admin, etc."
+msgstr "默认支持，您可以在 Wordpress Admin 中查看、修改、执行、删除模板等。"
+
+msgid "Template Market Admin"
+msgstr "模板市场管理"
+
+msgid "Supported by default, The Template Market Admin execute template use."
+msgstr "默认支持，模板市场管理执行模板使用。"
+
+msgid "Post Single Page"
+msgstr "文章单页面"
+
+msgid "Supported by default, You can config Wordpress Shortcode to display this template on a single post. only this template is allowed to be executed on a single post page for security reasons."
+msgstr "默认支持，您可以配置 Wordpress Shortcode 在单个文章上显示此模板。出于安全原因，只允许在单个文章页面上执行此模板。"
+
+msgid "Template Market Page"
+msgstr "模板市场页面"
+
+msgid "Supported by default, The Template Market Page execute template use."
+msgstr "默认支持，模板市场页面执行模板使用。"
+
+msgid "Got an Error! This Template is need 'content' variable! The variable field must be called 'content'"
+msgstr "出错了！此模板需要 'content' 变量！变量字段必须叫 'content'"
+
+msgid "Save Images"
+msgstr "保存图片"
+
+msgid "Save the image to your media library based on the Base64 image encoding you provide."
+msgstr "根据您提供的 Base64 图像编码将图像保存到媒体库中。"
+
+msgid "Create Post"
+msgstr "创建文章"
+
+msgid "Generate articles to your article list as drafts based on the steps of Title, Content, and Excerpt."
+msgstr "根据标题、内容和摘要的步骤将文章生成到您的文章列表中作为草稿。"
+
+msgid "Title Out"
+msgstr "标题内容"
+
+msgid "Title Out is the Title Step response. you can entry the {STEP.TITLE._OUT} or yor custom title"
+msgstr "标题内容是标题步骤的响应。您可以输入 {STEP.TITLE._OUT} 或自定义标题"
+
+msgid "Content Out"
+msgstr "内容输出"
+
+msgid "Content Out is the Content Step response, you can entry the {STEP.CONTENT._OUT} or yor custom content"
+msgstr "内容输出是内容步骤的响应，您可以输入 {STEP.CONTENT._OUT} 或自定义内容"
+
+msgid "Excerpt Out"
+msgstr "摘要输出"
+
+msgid "Excerpt Out is the Excerpt Step response, you can entry the {STEP.EXCERPT._OUT} or yor custom excerpt"
+msgstr "摘要输出是摘要步骤的响应，您可以输入 {STEP.EXCERPT._OUT} 或自定义摘要"
+
+msgid "Empty Step"
+msgstr "空步骤"
+
+msgid "OpenAPI Image"
+msgstr "OpenAPI 图片"
+
+msgid "You can enter a prompt to generate the image you desire."
+msgstr "您可以输入提示来生成您想要的图片。"
+
+msgid "Open API"
+msgstr "Open API"
+
+msgid "Open API Chat"
+msgstr "Open API 聊天"
+
+msgid "Completions"
+msgstr "Completions"
+
+msgid "OpenAI"
+msgstr "OpenAI"
+
+msgid "Search Product"
+msgstr "搜索商品"
+
+msgid "Search for the desired product information based on multiple search criteria."
+msgstr "根据多个维度搜索所需的商品信息。"
+
+msgid "product"
+msgstr "商品"
+
+msgid "Stability Ai Image"
+msgstr "Stability Ai 图片"
+
+msgid "Stability Ai Image, Generate Image By Text"
+msgstr "Stability Ai 图片，根据文本生成图片"
+
+msgid "Save Url"
+msgstr "保存 URL"
+
+msgid "Download and save the URL to your media library."
+msgstr "根据 URL 下载并保存到您的媒体库中。"
+
+msgid "View Report As PPT"
+msgstr "查看报告为 PPT"
+
+msgid "View PPT Content"
+msgstr "内容"
+
+msgid "View PPT Content is the Generate Report Step response, you can entry the {STEP.GENERATE_REPORT._OUT} or yor custom content"
+msgstr "内容是生成报告步骤的响应，您可以输入 {STEP.GENERATE_REPORT._OUT} 或自定义内容"
+
+msgid "Generate Text"
+msgstr "生成文本"
+
+msgid "you can ask the AI to perform various tasks for you. You can ask it to write, rewrite, or translate an article, categorize words or elements into groups, write an email, etc."
+msgstr "您可以要求 AI 为您执行各种任务。您可以要求它写、重写或翻译文章，将单词或元素分类到组中，写电子邮件等。"
+
+msgid "you can ask the AI to perform various tasks for you. You can ask it to write, rewrite, or translate an article, categorize words or elements into groups, write an email, etc"
+msgstr "您可以要求 AI 为您执行各种任务。您可以要求它写、重写或翻译文章，将单词或元素分类到组中，写电子邮件等。"
+
+msgid "Please enter the content of the image"
+msgstr "请输入图片提示内容"
+
+msgid "Generate Title"
+msgstr "生成标题"
+
+msgid "Generate Sections"
+msgstr "生成章节"
+
+msgid "Content"
+msgstr "内容"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Title of the article"
+msgstr "文章标题"
+
+msgid "Sections"
+msgstr "章节"
+
+msgid "Add, rewrite, remove, or reorganize those sections as you wish before (re)clicking on 'Generate Content'. Markdown format is recommended."
+msgstr "在重新点击“生成内容”之前，您可以根据需要添加、重写、删除或重新组织这些章节。建议使用 Markdown 格式。"
+
+msgid "You can modify the content before using 'Create Post'. Markdown is supported, and will be converted to HTML when the post is created."
+msgstr "您可以在使用“创建文章”之前修改内容。支持 Markdown，将在创建文章时转换为 HTML。"
+
+msgid "Generate Content"
+msgstr "生成内容"
+
+msgid "Excerpt"
+msgstr "摘要"
+
+msgid "Excerpt description of the article"
+msgstr "文章摘要描述"
+
+msgid "Generate Excerpt"
+msgstr "生成摘要"
+
+msgid "Products"
+msgstr "商品"
+
+msgid "Search Products"
+msgstr "搜索商品"
+
+msgid "Enter the product title to optimize the title."
+msgstr "输入商品标题以优化标题。"
+
+msgid "Optimization Title"
+msgstr "优化标题"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Enter the product description to optimize the description."
+msgstr "输入商品描述以优化描述。"
+
+msgid "Optimization Description"
+msgstr "优化描述"
+
+msgid "Points"
+msgstr "要点"
+
+msgid "Enter the product points to optimize the points."
+msgstr "输入商品要点以优化要点。"
+
+msgid "Optimization Points"
+msgstr "优化要点"
+
+msgid "Report"
+msgstr "报告"
+
+msgid "Generate analysis reports for commodities"
+msgstr "为商品生成分析报告"
+
+msgid "Generate Report"
+msgstr "生成报告"
+
+msgid "Generate Post Title, In Post Meta Box Scene Use, You Can Use It In Edit Post Page For Generate Post Title"
+msgstr "生成文章标题，在文章元框场景中使用，您可以在编辑文章页面中使用它来生成文章标题"
+
+msgid "Use this content to generate the title you want"
+msgstr "使用此内容生成您想要的标题"
+
+msgid "Generate Post Excerpt, In Post Meta Box Scene Use, You Can Use It In Edit Post Page For Generate Post Excerpt"
+msgstr "生成文章摘要，在文章元框场景中使用，您可以在编辑文章页面中使用它来生成文章摘要"
+
+msgid "Use this content to generate the excerpt you want"
+msgstr "使用此内容生成您想要的摘要"
+
+msgid "Translate Text"
+msgstr "翻译文本"
+
+msgid "Translate Text, You Can Use It In Edit Post Page For Translate Post Content Or Other Scene"
+msgstr "翻译文本，你可以翻译文本，在编辑文章页面或者其他的场景"
+
+msgid "The text content you want to translate"
+msgstr "您想要翻译的文本内容"
+
+msgid "Improve Writing"
+msgstr "提高写作"
+
+msgid "Improve Writing, You Can Use It In Edit Post Page For Improve Writing Post Content Or Other Scene"
+msgstr "您可以在文章编辑页面或者其他场景下使用来提升您的文章质量"
+
+msgid "The text content you want to improve writing"
+msgstr "您想要提高写作的文本内容"
+
+msgid "Continue Writing"
+msgstr "续写文本"
+
+msgid "Continue Writing, You Can Use It In Edit Post Page For Continue Writing Post Content Or Other Scene"
+msgstr "续写文本，您可以在编辑文章页面或其他场景中使用它来续写文本"
+
+msgid "The text content you want to continue writing"
+msgstr "您想要续写的文本内容"
+
+msgid "Make Longer"
+msgstr "延长文本"
+
+msgid "Make Longer, You Can Use It In Edit Post Page For Make Longer Post Content Or Other Scene"
+msgstr "延长文本，您可以在编辑文章页面或其他场景中使用它来延长文本"
+
+msgid "The text content you want to make longer"
+msgstr "您想要延长的文本内容"
+
+msgid "Summarize Text"
+msgstr "总结文本"
+
+msgid "Summarize Text, You Can Use It In Edit Post Page For Summarize Post Content Or Other Scene"
+msgstr "总结文本，您可以在编辑文章页面或其他场景中使用它来总结文本"
+
+msgid "The text content you want to summarize"
+msgstr "您想要总结的文本内容"
+
+msgid "Summarize Table"
+msgstr "总结表格"
+
+msgid "Summarize Table, You Can Use It In Edit Post Page For Summarize Post Table Or Other Scene"
+msgstr "总结表格，您可以在编辑文章页面或其他场景中使用它来总结表格"
+
+msgid "The text content you want to summarize table"
+msgstr "您想要总结的表格内容"
+
+msgid "Generate Table"
+msgstr "生成表格"
+
+msgid "Generate Table, You Can Use It In Edit Post Page For Generate Content To Table Or Other Scene"
+msgstr "生成表格，您可以在编辑文章页面或其他场景中使用它来生成内容到表格"
+
+msgid "Use this content to generate the table you want"
+msgstr "使用此内容生成您想要的表格"
+
+msgid "Generate Images"
+msgstr "生成图片"
+
+msgid "Take the generated content and create a new post"
+msgstr "将生成的内容拿来创建新的文章"
+
+msgid "Save the generated image to your media library."
+msgstr "将生成的图片保存到您的媒体库中。"
+
+msgid "Generate Article"
+msgstr "生成文章"
+
+msgid "Article generator is a powerful tool that can generate rich multi-paragraph article content for you."
+msgstr "文章生成器是一个强大的工具，可以为您生成丰富的多段落文章内容。"
+
+msgid "Generate Image By Content"
+msgstr "根据内容生成图片"
+
+msgid "Creating images from scratch based on a text prompt"
+msgstr "根据文本提示从头开始创建图片"
+
+msgid "Creating images from scratch based on content, We will analyze the content you provide and generate pictures for you."
+msgstr "根据内容从头开始创建图片，我们将分析您提供的内容，并为您生成图片。"
+
+msgid "Custom Template"
+msgstr "自定义模板"
+
+msgid "You can customize your template, personalize editing your steps, variables, and scenarios."
+msgstr "您可以自定义模板，个性化编辑您的步骤、变量和场景。定制化您的模板。"
+
+msgid "Generate Product Report"
+msgstr "生成商品报告"
+
+msgid "Product generator is a powerful tool that can analyze and optimize specific Product for you."
+msgstr "商品生成器是一个强大的工具，可以为您分析和优化特定的商品。"
+
+msgid "Make Longer Text, You Can Use It In Edit Post Page For Make Longer Post Content Or Other Scene"
+msgstr "延长文本，您可以在编辑文章页面或其他场景中使用它来延长文本"
+
+msgid "Generate images from scratch based on a text prompt"
+msgstr "根据文本提示从头开始创建图片"
+
+msgid "Generate Post Title"
+msgstr "生成文章标题"
+
+msgid "Generate Post Excerpt"
+msgstr "生成文章摘要"
+
+msgid "Article generator is a powerful tool that can generate rich multi-paragraph article content for you"
+msgstr "文章生成器是一个强大的工具，可以为您生成丰富的多段落文章内容"
+
+msgid "number"
+msgstr "数量"
+
+msgid "The number of images to generate. Must be between 1 and 10."
+msgstr "要生成的图片数量。必须在1到10之间。"
+
+msgid "size"
+msgstr "尺寸"
+
+msgid "The size of the generated images. Must be one of 256x256, 512x512, or 1024x1024."
+msgstr "生成的图片的尺寸。必须是256x256、512x512或1024x1024之一。"
+
+msgid "prompt"
+msgstr "提示"
+
+msgid "A text description of the desired image(s). The maximum length is 1000 characters."
+msgstr "所需图像的文本描述。最大长度为1000个字符。"
+
+msgid "Engine Id"
+msgstr "引擎ID"
+
+msgid "The Engine Id of the generated images."
+msgstr "生成的图片的引擎ID。"
+
+msgid "Size"
+msgstr "尺寸"
+
+msgid "The size of the generated images."
+msgstr "生成的图片的尺寸。"
+
+msgid "Number"
+msgstr "数量"
+
+msgid "Steps"
+msgstr "步骤"
+
+msgid "the step of the generated images. Number of diffusion steps to run"
+msgstr "生成的图像的步骤。要运行的扩散步数"
+
+msgid "cfgScale"
+msgstr "cfgScale"
+
+msgid "the cfgScale of the generated images. Which sampler to use for the diffusion process. If this value is omitted we'll automatically select an appropriate sampler for you."
+msgstr "生成的图像的cfgScale。用于扩散过程的采样器。如果省略此值，我们将自动为您选择适当的采样器。"
+
+msgid "clipGuidancePreset"
+msgstr "clipGuidancePreset"
+
+msgid "the clipGuidancePreset of the generated images. "
+msgstr "生成的图像的clipGuidancePreset。"
+
+msgid "sampler"
+msgstr "采样器"
+
+msgid "the sampler of the generated images. Which sampler to use for the diffusion process. If this value is omitted we'll automatically select an appropriate sampler for you."
+msgstr "生成的图像的采样器。用于扩散过程的采样器。如果省略此值，我们将自动为您选择适当的采样器。"
+
+msgid "Style Preset"
+msgstr "样式预设"
+
+msgid "Pass in a style preset to guide the image model towards a particular style. This list of style presets is subject to change"
+msgstr "传入一个样式预设来指导图像模型朝着特定的风格发展。这个样式预设列表可能会改变"
+
+msgid "Seed"
+msgstr "种子"
+
+msgid "Random noise seed (omit this option or use 0 for a random seed, [0, 4294967295L])"
+msgstr "随机噪声种子（省略此选项或使用0作为随机种子，[0, 4294967295L]）"
+
+msgid "the prompt of the generated images. The prompt is a string that will be displayed on the generated image. "
+msgstr "生成的图像的提示。提示是将显示在生成的图像上的字符串。"
+
+msgid "Keyword"
+msgstr "关键词"
+
+msgid "Enter keywords/asin to search for products."
+msgstr "输入关键词/asin搜索商品。"
+
+msgid "asin"
+msgstr "ASIN"
+
+msgid "ASIN of the product"
+msgstr "商品的ASIN"
+
+msgid "title"
+msgstr "标题"
+
+msgid "Title of the product"
+msgstr "商品的标题"
+
+msgid "price"
+msgstr "价格"
+
+msgid "Price of the product"
+msgstr "商品的价格"
+
+msgid "url"
+msgstr "URL"
+
+msgid "Url of the product"
+msgstr "商品的URL"
+
+msgid "picture url"
+msgstr "图片URL"
+
+msgid "Picture url of the product"
+msgstr "商品的图片URL"
+
+msgid "description"
+msgstr "描述"
+
+msgid "Description of the product"
+msgstr "商品的描述"
+
+msgid "QA"
+msgstr "QA"
+
+msgid "QA of the product"
+msgstr "商品的QA"
+
+msgid "comment"
+msgstr "评论"
+
+msgid "Comment of the product"
+msgstr "商品的评论"
+
+msgid "points"
+msgstr "要点"
+
+msgid "Points of the product"
+msgstr "商品的要点"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "In which language will the generated content be returned"
+msgstr "生成的内容将以哪种语言返回"
+
+msgid "English"
+msgstr "英语"
+
+msgid "German"
+msgstr "德语"
+
+msgid "French"
+msgstr "法语"
+
+msgid "Spanish"
+msgstr "西班牙语"
+
+msgid "Italian"
+msgstr "意大利语"
+
+msgid "Chinese"
+msgstr "中文"
+
+msgid "Japanese"
+msgstr "日语"
+
+msgid "Portuguese"
+msgstr "葡萄牙语"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "Writing style"
+msgstr "写作风格"
+
+msgid "The writing style of the generated content"
+msgstr "生成的内容的写作风格"
+
+msgid "Informative"
+msgstr "Informative"
+
+msgid "Descriptive"
+msgstr "Descriptive"
+
+msgid "Creative"
+msgstr "Creative"
+
+msgid "Narrative"
+msgstr "Narrative"
+
+msgid "Persuasive"
+msgstr "Persuasive"
+
+msgid "Reflective"
+msgstr "Reflective"
+
+msgid "Argumentative"
+msgstr "Argumentative"
+
+msgid "Analytical"
+msgstr "Analytical"
+
+msgid "Evaluative"
+msgstr "Evaluative"
+
+msgid "Journalistic"
+msgstr "Journalistic"
+
+msgid "Technical"
+msgstr "Technical"
+
+msgid "Writing tone"
+msgstr "写作语气"
+
+msgid "The writing tone of the generated content"
+msgstr "生成内容的写作语气"
+
+msgid "Eutral"
+msgstr "Eutral"
+
+msgid "Formal"
+msgstr "Formal"
+
+msgid "Assertive"
+msgstr "Assertive"
+
+msgid "Cheerful"
+msgstr "Cheerful"
+
+msgid "Humorous"
+msgstr "Humorous"
+
+msgid "Informal"
+msgstr "Informal"
+
+msgid "Inspirational"
+msgstr "Inspirational"
+
+msgid "Professional"
+msgstr "Professional"
+
+msgid "Confvalueent"
+msgstr "Confvalueent"
+
+msgid "Emotional"
+msgstr "Emotional"
+
+msgid "Supportive"
+msgstr "Supportive"
+
+msgid "Sarcastic"
+msgstr "Sarcastic"
+
+msgid "Condescending"
+msgstr "Condescending"
+
+msgid "Temperature"
+msgstr "温度"
+
+msgid "What sampling temperature to use, between 0 and 2. Higher values like 0.8 will make the output more random, while lower values like 0.2 will make it more focused and deterministic."
+msgstr "使用什么采样温度，介于0和2之间。较高的值（如0.8）会使输出更随机，而较低的值（如0.2）会使输出更集中和确定性。"
+
+msgid "MaxTokens"
+msgstr "最大令牌"
+
+msgid "The total length of input tokens and generated tokens is limited by the model's context length."
+msgstr "输入令牌和生成令牌的总长度受模型上下文长度的限制。"
+
+msgid "N"
+msgstr "数量"
+
+msgid "How many chat completion choices to generate for each input message. https://platform.openai.com/docs/api-reference/chat"
+msgstr "为每个输入消息生成多少个聊天完成选项。https://platform.openai.com/docs/api-reference/chat"
+
+msgid "Topic"
+msgstr "主题"
+
+msgid "The topic you want to generate content"
+msgstr "您想要生成内容的主题"
+
+msgid "The Sections of Generate article."
+msgstr "生成文章的章节数。"
+
+msgid "Paragraphs"
+msgstr "段落"
+
+msgid "The Paragraphs per Section of Generate article."
+msgstr "每章节内容的段落数。"
+
+

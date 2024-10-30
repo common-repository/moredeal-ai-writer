@@ -1,0 +1,1023 @@
+# Copyright (C) 2019-2020 Moredeal AI Writer <
+
+# wp-content/plugins/moredeal-aigc/application/admin/AdminPlugin.php:46
+msgid "You are not authorized to perform the requested action."
+msgstr "You are not authorized to perform the requested action."
+
+# wp-content/plugins/moredeal-aigc/application/admin/AdminPlugin.php:156
+msgid "MoredealAigc"
+msgstr "MoredealAigc"
+
+# wp-content/plugins/moredeal-aigc/application/admin/AigcMetaBox.php:50
+# wp-content/plugins/moredeal-aigc/application/admin/DebugConfig.php:50
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:55
+msgid "Moredeal AI Writer"
+msgstr "Moredeal AI Writer"
+
+# wp-content/plugins/moredeal-aigc/application/admin/views/debug_index.php:13
+msgid "Moredeal AI Writer Debugger"
+msgstr "Moredeal AI Writer Debugger"
+
+# wp-content/plugins/moredeal-aigc/application/admin/DebugConfig.php:50
+# wp-content/plugins/moredeal-aigc/application/admin/DebugConfig.php:79
+# wp-content/plugins/moredeal-aigc/application/admin/DebugConfig.php:91
+msgid "Debugger"
+msgstr "Debugger"
+
+# wp-content/plugins/moredeal-aigc/application/admin/DebugConfig.php:75
+msgid "Enable Debugger"
+msgstr "Enable Debugger"
+
+# wp-content/plugins/moredeal-aigc/application/admin/DebugConfig.php:82
+msgid "Debugger Mode"
+msgstr "Debugger Mode"
+
+# wp-content/plugins/moredeal-aigc/application/admin/DebugConfig.php:83
+msgid "Debugger mode, you can select Free, Pro, Plus"
+msgstr "Debugger mode, you can select Free, Pro, Plus"
+
+# wp-content/plugins/moredeal-aigc/application/admin/DebugConfig.php:87
+msgid "Free"
+msgstr "Free"
+
+# wp-content/plugins/moredeal-aigc/application/admin/DebugConfig.php:89
+msgid "Plus"
+msgstr "Plus"
+
+# wp-content/plugins/moredeal-aigc/application/admin/DebugConfig.php:88
+msgid "Pro"
+msgstr "Pro"
+
+# wp-content/plugins/moredeal-aigc/application/admin/views/license_index.php:15
+# wp-content/plugins/moredeal-aigc/application/admin/views/debug_index.php:15
+msgid "free"
+msgstr "free"
+
+# wp-content/plugins/moredeal-aigc/application/admin/views/license_index.php:15
+# wp-content/plugins/moredeal-aigc/application/admin/views/debug_index.php:15
+msgid "plus"
+msgstr "plus"
+
+# wp-content/plugins/moredeal-aigc/application/admin/views/license_index.php:15
+# wp-content/plugins/moredeal-aigc/application/admin/views/debug_index.php:15
+msgid "pro"
+msgstr "pro"
+
+# wp-content/plugins/moredeal-aigc/application/admin/views/debug_index.php:18
+# wp-content/plugins/moredeal-aigc/application/admin/views/license_index.php:18
+msgid "Go Pro"
+msgstr "Go Pro"
+
+# wp-content/plugins/moredeal-aigc/application/admin/views/license_index.php:13
+msgid "Moredeal AI Writer License"
+msgstr "Moredeal AI Writer License"
+
+# wp-content/plugins/moredeal-aigc/application/admin/views/license_index.php:27
+msgid "Activate License"
+msgstr "Activate License"
+
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:55
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:102
+msgid "License"
+msgstr "License"
+
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:83
+msgid "License Key"
+msgstr "License Key"
+
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:84
+msgid "Please enter your license key, Please check %s to purchase the license key you want."
+msgstr "Please enter your license key, Please check %s to purchase the license key you want."
+
+msgid "The Price List"
+msgstr "The Price List"
+
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:84
+msgid "Documentation"
+msgstr "Documentation"
+
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:92
+msgid "The License key can not be empty."
+msgstr "The License key can not be empty."
+
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:96
+msgid "Invalid License Key, Please check your License Key."
+msgstr "Invalid License Key, Please check your License Key."
+
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:118
+msgid "Active fail, place contact your administrator"
+msgstr "Active fail, place contact your administrator"
+
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:136
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:142
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:156
+# wp-content/plugins/moredeal-aigc/application/admin/LicenseConfig.php:176
+msgid "Unbind license fail, place contact your administrator"
+msgstr "Unbind license fail, place contact your administrator"
+
+msgid "Get license info fail, place contact your administrator"
+msgstr "Get license info fail, place contact your administrator"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:212
+msgid "Cant get download url?, please contact us get the url download the latest version overrides the current free version of the plugin."
+msgstr "Cant get download url?, please contact us get the url download the latest version overrides the current free version of the plugin."
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:215
+msgid "You can download the latest version overrides the current free version of the plugin to use Advanced version"
+msgstr "You can download the latest version overrides the current free version of the plugin to use Advanced version"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:183
+msgid "Cant get License Info, This License has an unknown error occurred, contact your administrator to solve the problem. "
+msgstr "Cant get License Info, This License has an unknown error occurred, contact your administrator to solve the problem. "
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:213
+msgid "License status: "
+msgstr "License status: "
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:214
+msgid "NOACTIVE"
+msgstr "NOACTIVE"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:214
+msgid "ACTIVE"
+msgstr "ACTIVE"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:214
+msgid "INACTIVE"
+msgstr "INACTIVE"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:214
+msgid "DISABLE"
+msgstr "DISABLE"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:214
+msgid "UNKNOWN"
+msgstr "UNKNOWN"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:219
+msgid "The License has no active, place contact your administrator"
+msgstr "The License has no active, place contact your administrator"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:222
+msgid "You can use the advanced features of Moredeal AI Writer"
+msgstr "You can use the advanced features of Moredeal AI Writer"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:225
+msgid "The License has expired, please Renew your current license code or obtain a new license key"
+msgstr "The License has expired, please Renew your current license code or obtain a new license key"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:228
+msgid "The License has disabled, place contact your administrator"
+msgstr "The License has disabled, place contact your administrator"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:231
+msgid "Cant get the License status, place contact your administrator"
+msgstr "Cant get the License status, place contact your administrator"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:234
+msgid "License Level is %s"
+msgstr "License Level is %s"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:234
+msgid "Active at %s "
+msgstr "Active at %s "
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:235
+msgid "Expires at %s (%d days left)"
+msgstr "Expires at %s (%d days left)"
+
+msgid "You have usable tokens: %s, "
+msgstr "You have usable tokens: %s, "
+
+msgid "Days left: %d ."
+msgstr "Days left: %d ."
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:239
+msgid "This License code can be bind to %s websites. "
+msgstr "This License code can be bind to %s websites. "
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:244
+msgid "Already bind websites: %s. "
+msgstr "Already bind websites: %s. "
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:245
+msgid "You can bind %s websites. "
+msgstr "You can bind %s websites. "
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:248
+msgid "You can not bind website, if you want bind other website, you can unbind already bind websites or upgrade your license. "
+msgstr "You can not bind website, if you want bind other website, you can unbind already bind websites or upgrade your license. "
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:255
+msgid "bind_domain"
+msgstr "Bind Domain"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:255
+msgid "queries"
+msgstr "Queries"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:255
+msgid "options"
+msgstr "Options"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:305
+msgid "Current Website"
+msgstr "Current Website"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:334
+msgid "Unbind"
+msgstr "Unbind"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:361
+msgid "Unlimited"
+msgstr "Unlimited"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:371
+msgid " times / "
+msgstr " times / "
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:381
+msgid "Day"
+msgstr "Day"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:383
+msgid "Week"
+msgstr "Week"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:385
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:390
+msgid "Month"
+msgstr "Month"
+
+# wp-content/plugins/moredeal-aigc/application/components/LicenseManager.php:387
+msgid "Year"
+msgstr "Year"
+
+msgid "Token"
+msgstr "Token"
+
+msgid "Token Recharge"
+msgstr "Token Recharge"
+
+msgid "Token Recharge Key"
+msgstr "Token Recharge Key"
+
+msgid "Please enter your Token Recharge Key, Please check %s to purchase the token recharge key you want."
+msgstr "Please enter your Token Recharge Key, Please check %s to purchase the token recharge key you want."
+
+msgid "The Token Recharge Key can not be empty."
+msgstr "The Token Recharge Key can not be empty."
+
+msgid "Invalid Token Recharge Key, Please check your License Key."
+msgstr "Invalid Token Recharge Key, Please check your License Key."
+
+msgid "Cant get token info, This token has an unknown error occurred, contact your administrator to solve the problem. "
+msgstr "Cant get token info, This token has an unknown error occurred, contact your administrator to solve the problem. "
+
+msgid "Other errors occurred, contact your administrator to solve the problem. "
+msgstr "Other errors occurred, contact your administrator to solve the problem. "
+
+msgid "If you want to buy tokens, your recharge key will be recharged to this license key. "
+msgstr "If you want to buy tokens, your recharge key will be recharged to this license key. "
+
+msgid "If you want to buy tokens, your recharge key will be recharged to this account id, if you upgrade your plugin again, the token will not be transferred. It is recommended to upgrade to a higher version of the plugin before topping up your tokens to get a better experience."
+msgstr "If you want to buy tokens, your recharge key will be recharged to this account id, if you upgrade your plugin again, the token will not be transferred. It is recommended to upgrade to a higher version of the plugin before topping up your tokens to get a better experience."
+
+msgid "Total Token: "
+msgstr "Total Token: "
+
+msgid "Used Token: "
+msgstr "Used Token: "
+
+msgid "Usable Token: "
+msgstr "Usable Token: "
+
+msgid "Days left: "
+msgstr "Days left: "
+
+
+msgid "This account id is a unique key representation of the Moredeal AI Writer plugin we generate for you."
+msgstr "This account id is a unique key representation of the Moredeal AI Writer plugin we generate for you."
+
+msgid "Not Found Your Account ? Please click the Generate button to generate your Account."
+msgstr "Not Found Your Account ? Please click the Generate button to generate your Account."
+
+msgid "Generate"
+msgstr "Generate"
+
+msgid "This account id is the only key representation of the Moredeal AI Writer plugin to you. "
+msgstr "This account id is the only key representation of the Moredeal AI Writer plugin to you. "
+
+msgid "Get moredeal aigc account fail, place contact your administrator"
+msgstr "Get moredeal aigc account fail, place contact your administrator"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Moredeal Ai Writer Page Permissions"
+msgstr "Moredeal Ai Writer Page Permissions"
+
+msgid "Select the user roles that can access the Moredeal Ai Writer page."
+msgstr "Select the user roles that can access the Moredeal Ai Writer page."
+
+msgid "General Settings"
+msgstr "General Settings"
+
+msgid "Use Limit"
+msgstr "Use Limit"
+
+msgid "Service"
+msgstr "Service"
+
+msgid "Moredeal Ai Writer User Template Permissions"
+msgstr "Moredeal Ai Writer User Template Permissions"
+
+msgid "You can view only the templates that you have created(administrator can view all templates)."
+msgstr "You can view only the templates that you have created(administrator can view all templates)."
+
+msgid "Enable Gutenberg Block Editor"
+msgstr "Enable Gutenberg Block Editor"
+
+msgid "Enable Gutenberg Block Editor. You can use our provided block editing tools to simplify writing articles."
+msgstr "Enable Gutenberg Block Editor. You can use our provided block editing tools to simplify writing articles."
+
+msgid "Leave A Review ?"
+msgstr "Leave A Review ?"
+
+msgid "We hope you've enjoyed using Moredeal AI Writer! Would you consider leaving us a review on WordPress.org ?"
+msgstr "We hope you've enjoyed using Moredeal AI Writer! Would you consider leaving us a review on WordPress.org ?"
+
+msgid "Sure, I'd Love To"
+msgstr "Sure, I'd Love To"
+
+msgid "I've Already Left A Review"
+msgstr "I've Already Left A Review"
+
+msgid "Maybe Later"
+msgstr "Maybe Later"
+
+msgid "Never Show Again"
+msgstr "Never Show Again"
+
+msgid "Please download and install the premium version plug-in as soon as possible, otherwise you will not be able to use and experience the features of the premium version, and the token of this authorization code will not be available."
+msgstr "Please download and install the premium version plug-in as soon as possible, otherwise you will not be able to use and experience the features of the premium version, and the token of this authorization code will not be available."
+
+msgid "Post Meta Box Titles"
+msgstr "Post Meta Box Titles"
+
+msgid "In the Wordpress Post Editor Meta Box, regenerate the article title scene based on the article content summary."
+msgstr "In the Wordpress Post Editor Meta Box, regenerate the article title scene based on the article content summary."
+
+msgid "Post Meta Box Excerpts"
+msgstr "Post Meta Box Excerpts"
+
+msgid "In the Wordpress Post Editor Meta Box, regenerate the article excerpt scene based on the article content summary."
+msgstr "In the Wordpress Post Editor Meta Box, regenerate the article excerpt scene based on the article content summary."
+
+msgid "Post Block Right Translate Text"
+msgstr "Post Block Right Translate Text"
+
+msgid "In the Wordpress Post Block Editor Toolbar, right click Translate Text Scene."
+msgstr "In the Wordpress Post Block Editor Toolbar, right click Translate Text Scene."
+
+msgid "Post Block Right Improve Writing"
+msgstr "Post Block Right Improve Writing"
+
+msgid "In the Wordpress Post Block Editor Toolbar, right click Improve Writing Scene."
+msgstr "In the Wordpress Post Block Editor Toolbar, right click Improve Writing Scene."
+
+msgid "Post Block Right Make Longer"
+msgstr "Post Block Right Make Longer"
+
+msgid "In the Wordpress Post Block Editor Toolbar, right click Make Longer Scene."
+msgstr "In the Wordpress Post Block Editor Toolbar, right click Make Longer Scene."
+
+msgid "Post Block Right Summarize Text"
+msgstr "Post Block Right Summarize Text"
+
+msgid "In the Wordpress Post Block Editor Toolbar, right click Summarize Text Scene."
+msgstr "In the Wordpress Post Block Editor Toolbar, right click Summarize Text Scene."
+
+msgid "Post Block Right Continue Writing"
+msgstr "Post Block Right Continue Writing"
+
+msgid "In the Wordpress Post Block Editor Toolbar, right click Continue Writing Scene."
+msgstr "In the Wordpress Post Block Editor Toolbar, right click Continue Writing Scene."
+
+msgid "Post Block Right Summarize Table"
+msgstr "Post Block Right Summarize Table"
+
+msgid "In the Wordpress Post Block Editor Toolbar, right click Summarize Table Scene."
+msgstr "In the Wordpress Post Block Editor Toolbar, right click Summarize Table Scene."
+
+msgid "Post Block Right Generate Table"
+msgstr "Post Block Right Generate Table"
+
+msgid "In the Wordpress Post Block Editor Toolbar, right click Generate Table Scene."
+msgstr "In the Wordpress Post Block Editor Toolbar, right click Generate Table Scene."
+
+msgid "Admin Dashboard"
+msgstr "Admin Dashboard"
+
+msgid "Supported by default, you can view, modify, execute, delete the template in Wordpress Admin, etc."
+msgstr "Supported by default, you can view, modify, execute, delete the template in Wordpress Admin, etc."
+
+msgid "Template Market Admin"
+msgstr "Template Market Admin"
+
+msgid "Supported by default, The Template Market Admin execute template use."
+msgstr "Supported by default, The Template Market Admin execute template use."
+
+msgid "Post Single Page"
+msgstr "Post Single Page"
+
+msgid "Supported by default, You can config Wordpress Shortcode to display this template on a single post. only this template is allowed to be executed on a single post page for security reasons."
+msgstr "Supported by default, You can config Wordpress Shortcode to display this template on a single post. only this template is allowed to be executed on a single post page for security reasons."
+
+msgid "Template Market Page"
+msgstr "Template Market Page"
+
+msgid "Supported by default, The Template Market Page execute template use."
+msgstr "Supported by default, The Template Market Page execute template use."
+
+msgid "Got an Error! This Template is need 'content' variable! The variable field must be called 'content'"
+msgstr "Got an Error! This Template is need 'content' variable! The variable field must be called 'content'"
+
+msgid "Save Images"
+msgstr "Save Images"
+
+msgid "Save the image to your media library based on the Base64 image encoding you provide."
+msgstr "Save the image to your media library based on the Base64 image encoding you provide."
+
+msgid "Create Post"
+msgstr "Create Post"
+
+msgid "Generate articles to your article list as drafts based on the steps of Title, Content, and Excerpt."
+msgstr "Generate articles to your article list as drafts based on the steps of Title, Content, and Excerpt."
+
+msgid "Title Out"
+msgstr "Title Out"
+
+msgid "Title Out is the Title Step response. you can entry the {STEP.TITLE._OUT} or yor custom title"
+msgstr "Title Out is the Title Step response. you can entry the {STEP.TITLE._OUT} or yor custom title"
+
+msgid "Content Out"
+msgstr "Content Out"
+
+msgid "Content Out is the Content Step response, you can entry the {STEP.CONTENT._OUT} or yor custom content"
+msgstr "Content Out is the Content Step response, you can entry the {STEP.CONTENT._OUT} or yor custom content"
+
+msgid "Excerpt Out"
+msgstr "Excerpt Out"
+
+msgid "Excerpt Out is the Excerpt Step response, you can entry the {STEP.EXCERPT._OUT} or yor custom excerpt"
+msgstr "Excerpt Out is the Excerpt Step response, you can entry the {STEP.EXCERPT._OUT} or yor custom excerpt"
+
+msgid "Empty Step"
+msgstr "Empty Step"
+
+msgid "OpenAPI Image"
+msgstr "OpenAPI Image"
+
+msgid "You can enter a prompt to generate the image you desire."
+msgstr "You can enter a prompt to generate the image you desire."
+
+msgid "Open API"
+msgstr "Open API"
+
+msgid "Open API Chat"
+msgstr "Open API Chat"
+
+msgid "Completions"
+msgstr "Completions"
+
+msgid "OpenAI"
+msgstr "OpenAI"
+
+msgid "Search Product"
+msgstr "Search Product"
+
+msgid "Search for the desired product information based on multiple search criteria."
+msgstr "Search for the desired product information based on multiple search criteria."
+
+msgid "product"
+msgstr "product"
+
+msgid "Stability Ai Image"
+msgstr "Stability Ai Image"
+
+msgid "Stability Ai Image, Generate Image By Text"
+msgstr "Stability Ai Image, Generate Image By Text"
+
+msgid "Save Url"
+msgstr "Save Url"
+
+msgid "Download and save the URL to your media library."
+msgstr "Download and save the URL to your media library."
+
+msgid "View Report As PPT"
+msgstr "View Report As PPT"
+
+msgid "View PPT Content"
+msgstr "View PPT Content"
+
+msgid "View PPT Content is the Generate Report Step response, you can entry the {STEP.GENERATE_REPORT._OUT} or yor custom content"
+msgstr "View PPT Content is the Generate Report Step response, you can entry the {STEP.GENERATE_REPORT._OUT} or yor custom content"
+
+msgid "Generate Text"
+msgstr "Generate Text"
+
+msgid "you can ask the AI to perform various tasks for you. You can ask it to write, rewrite, or translate an article, categorize words or elements into groups, write an email, etc."
+msgstr "you can ask the AI to perform various tasks for you. You can ask it to write, rewrite, or translate an article, categorize words or elements into groups, write an email, etc."
+
+msgid "Please enter the content of the image"
+msgstr "Please enter the content of the image"
+
+msgid "Generate Title"
+msgstr "Generate Title"
+
+msgid "Generate Sections"
+msgstr "Generate Sections"
+
+msgid "Content"
+msgstr "Content"
+
+msgid "Title"
+msgstr "Title"
+
+msgid "Title of the article"
+msgstr "Title of the article"
+
+msgid "Sections"
+msgstr "Sections"
+
+msgid "Add, rewrite, remove, or reorganize those sections as you wish before (re)clicking on 'Generate Content'. Markdown format is recommended."
+msgstr "Add, rewrite, remove, or reorganize those sections as you wish before (re)clicking on 'Generate Content'. Markdown format is recommended."
+
+msgid "You can modify the content before using 'Create Post'. Markdown is supported, and will be converted to HTML when the post is created."
+msgstr "You can modify the content before using 'Create Post'. Markdown is supported, and will be converted to HTML when the post is created."
+
+msgid "Generate Content"
+msgstr "Generate Content"
+
+msgid "Excerpt"
+msgstr "Excerpt"
+
+msgid "Excerpt description of the article"
+msgstr "Excerpt description of the article"
+
+msgid "Generate Excerpt"
+msgstr "Generate Excerpt"
+
+msgid "Products"
+msgstr "Products"
+
+msgid "Search Products"
+msgstr "Search Products"
+
+msgid "Enter the product title to optimize the title."
+msgstr "Enter the product title to optimize the title."
+
+msgid "Optimization Title"
+msgstr "Optimization Title"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Enter the product description to optimize the description."
+msgstr "Enter the product description to optimize the description."
+
+msgid "Optimization Description"
+msgstr "Optimization Description"
+
+msgid "Points"
+msgstr "Points"
+
+msgid "Enter the product points to optimize the points."
+msgstr "Enter the product points to optimize the points."
+
+msgid "Optimization Points"
+msgstr "Optimization Points"
+
+msgid "Report"
+msgstr "Report"
+
+msgid "Generate analysis reports for commodities"
+msgstr "Generate analysis reports for commodities"
+
+msgid "Generate Report"
+msgstr "Generate Report"
+
+msgid "Generate Post Title, In Post Meta Box Scene Use, You Can Use It In Edit Post Page For Generate Post Title"
+msgstr "Generate Post Title, In Post Meta Box Scene Use, You Can Use It In Edit Post Page For Generate Post Title"
+
+msgid "Use this content to generate the title you want"
+msgstr "Use this content to generate the title you want"
+
+msgid "Generate Post Excerpt, In Post Meta Box Scene Use, You Can Use It In Edit Post Page For Generate Post Excerpt"
+msgstr "Generate Post Excerpt, In Post Meta Box Scene Use, You Can Use It In Edit Post Page For Generate Post Excerpt"
+
+msgid "Use this content to generate the excerpt you want"
+msgstr "Use this content to generate the excerpt you want"
+
+msgid "Translate Text"
+msgstr "Translate Text"
+
+msgid "Translate Text, You Can Use It In Edit Post Page For Translate Post Content Or Other Scene"
+msgstr "Translate Text, You Can Use It In Edit Post Page For Translate Post Content Or Other Scene"
+
+msgid "The text content you want to translate"
+msgstr "The text content you want to translate"
+
+msgid "Improve Writing"
+msgstr "Improve Writing"
+
+msgid "Improve Writing, You Can Use It In Edit Post Page For Improve Writing Post Content Or Other Scene"
+msgstr "Improve Writing, You Can Use It In Edit Post Page For Improve Writing Post Content Or Other Scene"
+
+msgid "The text content you want to improve writing"
+msgstr "The text content you want to improve writing"
+
+msgid "Continue Writing"
+msgstr "Continue Writing"
+
+msgid "Continue Writing, You Can Use It In Edit Post Page For Continue Writing Post Content Or Other Scene"
+msgstr "Continue Writing, You Can Use It In Edit Post Page For Continue Writing Post Content Or Other Scene"
+
+msgid "The text content you want to continue writing"
+msgstr "The text content you want to continue writing"
+
+msgid "Make Longer"
+msgstr "Make Longer"
+
+msgid "Make Longer, You Can Use It In Edit Post Page For Make Longer Post Content Or Other Scene"
+msgstr "Make Longer, You Can Use It In Edit Post Page For Make Longer Post Content Or Other Scene"
+
+msgid "The text content you want to make longer"
+msgstr "The text content you want to make longer"
+
+msgid "Summarize Text"
+msgstr "Summarize Text"
+
+msgid "Summarize Text, You Can Use It In Edit Post Page For Summarize Post Content Or Other Scene"
+msgstr "Summarize Text, You Can Use It In Edit Post Page For Summarize Post Content Or Other Scene"
+
+msgid "The text content you want to summarize"
+msgstr "The text content you want to summarize"
+
+msgid "Summarize Table"
+msgstr "Summarize Table"
+
+msgid "Summarize Table, You Can Use It In Edit Post Page For Summarize Post Table Or Other Scene"
+msgstr "Summarize Table, You Can Use It In Edit Post Page For Summarize Post Table Or Other Scene"
+
+msgid "The text content you want to summarize table"
+msgstr "The text content you want to summarize table"
+
+msgid "Generate Table"
+msgstr "Generate Table"
+
+msgid "Generate Table, You Can Use It In Edit Post Page For Generate Content To Table Or Other Scene"
+msgstr "Generate Table, You Can Use It In Edit Post Page For Generate Content To Table Or Other Scene"
+
+msgid "Use this content to generate the table you want"
+msgstr "Use this content to generate the table you want"
+
+msgid "Generate Images"
+msgstr "Generate Images"
+
+msgid "Take the generated content and create a new post"
+msgstr "Take the generated content and create a new post"
+
+msgid "Save the generated image to your media library."
+msgstr "Save the generated image to your media library."
+
+msgid "Generate Article"
+msgstr "Generate Article"
+
+msgid "Article generator is a powerful tool that can generate rich multi-paragraph article content for you."
+msgstr "Article generator is a powerful tool that can generate rich multi-paragraph article content for you."
+
+msgid "Generate Image By Content"
+msgstr "Generate Image By Content"
+
+msgid "Creating images from scratch based on a text prompt"
+msgstr "Creating images from scratch based on a text prompt"
+
+msgid "Creating images from scratch based on content, We will analyze the content you provide and generate pictures for you."
+msgstr "Creating images from scratch based on content, We will analyze the content you provide and generate pictures for you."
+
+msgid "Custom Template"
+msgstr "Custom Template"
+
+msgid "You can customize your template, personalize editing your steps, variables, and scenarios."
+msgstr "You can customize your template, personalize editing your steps, variables, and scenarios."
+
+msgid "Generate Product Report"
+msgstr "Generate Product Report"
+
+msgid "Product generator is a powerful tool that can analyze and optimize specific Product for you."
+msgstr "Product generator is a powerful tool that can analyze and optimize specific Product for you."
+
+msgid "Make Longer Text, You Can Use It In Edit Post Page For Make Longer Post Content Or Other Scene"
+msgstr "Make Longer Text, You Can Use It In Edit Post Page For Make Longer Post Content Or Other Scene"
+
+msgid "Generate images from scratch based on a text prompt"
+msgstr "Generate images from scratch based on a text prompt"
+
+msgid "Generate Post Title"
+msgstr "Generate Post Title"
+
+msgid "Generate Post Excerpt"
+msgstr "Generate Post Excerpt"
+
+msgid "Article generator is a powerful tool that can generate rich multi-paragraph article content for you"
+msgstr "Article generator is a powerful tool that can generate rich multi-paragraph article content for you"
+
+msgid "number"
+msgstr "number"
+
+msgid "The number of images to generate. Must be between 1 and 10."
+msgstr "The number of images to generate. Must be between 1 and 10."
+
+msgid "size"
+msgstr "size"
+
+msgid "The size of the generated images. Must be one of 256x256, 512x512, or 1024x1024."
+msgstr "The size of the generated images. Must be one of 256x256, 512x512, or 1024x1024."
+
+msgid "prompt"
+msgstr "prompt"
+
+msgid "A text description of the desired image(s). The maximum length is 1000 characters."
+msgstr "A text description of the desired image(s). The maximum length is 1000 characters."
+
+msgid "Engine Id"
+msgstr "Engine Id"
+
+msgid "The Engine Id of the generated images."
+msgstr "The Engine Id of the generated images."
+
+msgid "Size"
+msgstr "Size"
+
+msgid "The size of the generated images."
+msgstr "The size of the generated images."
+
+msgid "Number"
+msgstr "Number"
+
+msgid "Steps"
+msgstr "Steps"
+
+msgid "the step of the generated images. Number of diffusion steps to run"
+msgstr "the step of the generated images. Number of diffusion steps to run"
+
+msgid "cfgScale"
+msgstr "cfgScale"
+
+msgid "the cfgScale of the generated images. Which sampler to use for the diffusion process. If this value is omitted we'll automatically select an appropriate sampler for you."
+msgstr "the cfgScale of the generated images. Which sampler to use for the diffusion process. If this value is omitted we'll automatically select an appropriate sampler for you."
+
+msgid "clipGuidancePreset"
+msgstr "clipGuidancePreset"
+
+msgid "the clipGuidancePreset of the generated images. "
+msgstr "the clipGuidancePreset of the generated images. "
+
+msgid "sampler"
+msgstr "sampler"
+
+msgid "the sampler of the generated images. Which sampler to use for the diffusion process. If this value is omitted we'll automatically select an appropriate sampler for you."
+msgstr "the sampler of the generated images. Which sampler to use for the diffusion process. If this value is omitted we'll automatically select an appropriate sampler for you."
+
+msgid "Style Preset"
+msgstr "Style Preset"
+
+msgid "Pass in a style preset to guide the image model towards a particular style. This list of style presets is subject to change"
+msgstr "Pass in a style preset to guide the image model towards a particular style. This list of style presets is subject to change"
+
+msgid "Seed"
+msgstr "Seed"
+
+msgid "Random noise seed (omit this option or use 0 for a random seed, [0, 4294967295L])"
+msgstr "Random noise seed (omit this option or use 0 for a random seed, [0, 4294967295L])"
+
+msgid "the prompt of the generated images. The prompt is a string that will be displayed on the generated image. "
+msgstr "the prompt of the generated images. The prompt is a string that will be displayed on the generated image. "
+
+msgid "Keyword"
+msgstr "Keyword"
+
+msgid "Enter keywords/asin to search for products."
+msgstr "Enter keywords/asin to search for products."
+
+msgid "asin"
+msgstr "asin"
+
+msgid "ASIN of the product"
+msgstr "ASIN of the product"
+
+msgid "title"
+msgstr "title"
+
+msgid "Title of the product"
+msgstr "Title of the product"
+
+msgid "price"
+msgstr "price"
+
+msgid "Price of the product"
+msgstr "Price of the product"
+
+msgid "url"
+msgstr "url"
+
+msgid "Url of the product"
+msgstr "Url of the product"
+
+msgid "picture url"
+msgstr "picture url"
+
+msgid "Picture url of the product"
+msgstr "Picture url of the product"
+
+msgid "description"
+msgstr "description"
+
+msgid "Description of the product"
+msgstr "Description of the product"
+
+msgid "QA"
+msgstr "QA"
+
+msgid "QA of the product"
+msgstr "QA of the product"
+
+msgid "comment"
+msgstr "comment"
+
+msgid "Comment of the product"
+msgstr "Comment of the product"
+
+msgid "points"
+msgstr "points"
+
+msgid "Points of the product"
+msgstr "Points of the product"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "In which language will the generated content be returned"
+msgstr "In which language will the generated content be returned"
+
+msgid "English"
+msgstr "English"
+
+msgid "German"
+msgstr "German"
+
+msgid "French"
+msgstr "French"
+
+msgid "Spanish"
+msgstr "Spanish"
+
+msgid "Italian"
+msgstr "Italian"
+
+msgid "Chinese"
+msgstr "Chinese"
+
+msgid "Japanese"
+msgstr "Japanese"
+
+msgid "Portuguese"
+msgstr "Portuguese"
+
+msgid "Other"
+msgstr "Other"
+
+msgid "Writing style"
+msgstr "Writing style"
+
+msgid "The writing style of the generated content"
+msgstr "The writing style of the generated content"
+
+msgid "Informative"
+msgstr "Informative"
+
+msgid "Descriptive"
+msgstr "Descriptive"
+
+msgid "Creative"
+msgstr "Creative"
+
+msgid "Narrative"
+msgstr "Narrative"
+
+msgid "Persuasive"
+msgstr "Persuasive"
+
+msgid "Reflective"
+msgstr "Reflective"
+
+msgid "Argumentative"
+msgstr "Argumentative"
+
+msgid "Analytical"
+msgstr "Analytical"
+
+msgid "Evaluative"
+msgstr "Evaluative"
+
+msgid "Journalistic"
+msgstr "Journalistic"
+
+msgid "Technical"
+msgstr "Technical"
+
+msgid "Writing tone"
+msgstr "Writing tone"
+
+msgid "The writing tone of the generated content"
+msgstr "The writing tone of the generated content"
+
+msgid "Eutral"
+msgstr "Eutral"
+
+msgid "Formal"
+msgstr "Formal"
+
+msgid "Assertive"
+msgstr "Assertive"
+
+msgid "Cheerful"
+msgstr "Cheerful"
+
+msgid "Humorous"
+msgstr "Humorous"
+
+msgid "Informal"
+msgstr "Informal"
+
+msgid "Inspirational"
+msgstr "Inspirational"
+
+msgid "Professional"
+msgstr "Professional"
+
+msgid "Confvalueent"
+msgstr "Confvalueent"
+
+msgid "Emotional"
+msgstr "Emotional"
+
+msgid "Supportive"
+msgstr "Supportive"
+
+msgid "Sarcastic"
+msgstr "Sarcastic"
+
+msgid "Condescending"
+msgstr "Condescending"
+
+msgid "Temperature"
+msgstr "Temperature"
+
+msgid "What sampling temperature to use, between 0 and 2. Higher values like 0.8 will make the output more random, while lower values like 0.2 will make it more focused and deterministic."
+msgstr "What sampling temperature to use, between 0 and 2. Higher values like 0.8 will make the output more random, while lower values like 0.2 will make it more focused and deterministic."
+
+msgid "MaxTokens"
+msgstr "MaxTokens"
+
+msgid "The total length of input tokens and generated tokens is limited by the model's context length."
+msgstr "The total length of input tokens and generated tokens is limited by the model's context length."
+
+msgid "N"
+msgstr "N"
+
+msgid "How many chat completion choices to generate for each input message. https://platform.openai.com/docs/api-reference/chat"
+msgstr "How many chat completion choices to generate for each input message. https://platform.openai.com/docs/api-reference/chat"
+
+msgid "Topic"
+msgstr "Topic"
+
+msgid "The topic you want to generate content"
+msgstr "The topic you want to generate content"
+
+msgid "The Sections of Generate article."
+msgstr "The Sections of Generate article."
+
+msgid "Paragraphs"
+msgstr "Paragraphs"
+
+msgid "The Paragraphs per Section of Generate article."
+msgstr "The Paragraphs per Section of Generate article."
+
+
+
+
+
+
